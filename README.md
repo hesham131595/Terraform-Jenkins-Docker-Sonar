@@ -20,3 +20,24 @@ please provide your access key and secret key
 
 
 
+# **Prerequisites**
+
+- An AWS account with appropriate permissions to create resources.
+- Create your AK/SK keys.
+- Create access key for the resources.
+- Installation of Terraform and Git locally.
+
+# **Usage**
+
+- git clone my repo in your local PC
+- cd **Terraform-Jenkins-Docker-Sonar**
+- put your access key
+- run the below commands to start creating your infra
+
+
+terraform init 
+
+terraform apply --auto-approve
+```
+
+- provide your access and secret keys
