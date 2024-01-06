@@ -44,7 +44,17 @@ put your access key  in the same directory
 
 - run the below commands to start creating your infra
 
+- run the below commands to start creating your infra
 
+```bash
+terraform init 
+
+terraform apply --auto-approve
+```
+
+- provide your access and secret keys
+
+- 
 terraform init 
 
 terraform apply --auto-approve
