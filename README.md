@@ -36,20 +36,18 @@ Clone this Repo
 Clone the forked repository to your local machine using the following command:
 
 git clone https://github.com/<your-username>/DevOps_project.git
-Change the working directory to the cloned repo, then run the Bash script to build the infrastructure:
+Change the working directory to the cloned repo:
 
-cd DevOps-project
-bash infrastructure.sh
+cd Terraform-Jenkins-Docker-Sonar
 
-- git clone my repo in your local PC
-- cd **Terraform-Jenkins-Docker-Sonar**
-- put your access key
+put your access key  in the same directory 
+
 - run the below commands to start creating your infra
 
 
 terraform init 
 
 terraform apply --auto-approve
-```
 
 - provide your access and secret keys
+
