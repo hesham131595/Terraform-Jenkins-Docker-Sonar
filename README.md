@@ -42,3 +42,10 @@ provide your access and secret keys
 
 
 ![image](https://github.com/hesham131595/Terraform-Jenkins-Docker-Sonar/assets/93712347/485ee82e-06a0-4cd8-9153-cf35535f39a8)
+
+
+After creation finished you can find EC2 IP
+
+Now you can access Jenkins through EC2IP:8080
+
+And access Sonarqube through EC2IP:9000
