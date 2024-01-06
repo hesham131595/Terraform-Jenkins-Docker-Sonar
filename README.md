@@ -29,6 +29,18 @@ please provide your access key and secret key
 
 # **Usage**
 
+Fork this Repo
+Fork the repository by clicking the "Fork" button on the top right corner of this page. This will create a copy of the repository under your GitHub account.
+
+Clone this Repo
+Clone the forked repository to your local machine using the following command:
+
+git clone https://github.com/<your-username>/DevOps_project.git
+Change the working directory to the cloned repo, then run the Bash script to build the infrastructure:
+
+cd DevOps-project
+bash infrastructure.sh
+
 - git clone my repo in your local PC
 - cd **Terraform-Jenkins-Docker-Sonar**
 - put your access key
