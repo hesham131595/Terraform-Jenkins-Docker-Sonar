@@ -1,5 +1,9 @@
 # **Automate your pipeline using Terraform-Jenkins-Docker-Sonar-Project**
 
+
+![Uploading image.png…]()
+
+
 # **Prerequisites**
 
 - An AWS account with appropriate permissions to create resources.
