@@ -1,4 +1,4 @@
-# **Terraform-Jenkins-Docker-Sonar-Project**
+# **Automate your pipeline using Terraform-Jenkins-Docker-Sonar-Project**
 
 # **Prerequisites**
 
