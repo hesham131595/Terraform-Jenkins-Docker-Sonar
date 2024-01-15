@@ -1,7 +1,8 @@
 # **Automate your pipeline using Terraform-Jenkins-Docker-Sonar-Project**
 
 
-![image](https://github.com/hesham131595/Terraform-Jenkins-Docker-Sonar/assets/93712347/901c6311-99d2-4a2b-8f8b-049e1bdd17b1)
+![image](https://github.com/hesham131595/Terraform-Jenkins-Docker-Sonar/assets/93712347/d899f0dc-530a-4c40-a91f-99a2ad11d516)
+
 
 
 
